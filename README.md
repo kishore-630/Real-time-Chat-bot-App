@@ -8,6 +8,7 @@
 *DURATION* : 4-WEEKS
 
 *MENTOR* : NEELA SANTOSH
+
 *DISCRIPTION*:
 
 This frontend chatbot application is a modern, single-page interface built using React.js, designed to communicate in real-time with a backend server through WebSocket protocol. It provides users with an interactive chat experience, mimicking a basic conversational interface between a user and a bot. The application starts with the ChatApp component, which is the core logic and visual structure of the interface. Within this component, React’s useState hook is used to maintain two primary state variables: one for the current message being typed (message) and another for the chat history (messages). These messages are dynamically rendered in the UI and updated as either the user sends a message or receives a response from the backend bot via WebSocket.
