@@ -29,3 +29,6 @@ To run this application, the user needs to set up a React environment using tool
 *OUTPUT*:
 *Vedio output*:
 
+https://github.com/user-attachments/assets/0164177c-feed-469a-b6db-18b4f7938f81
+
+*PHOTO*:
