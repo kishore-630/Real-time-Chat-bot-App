@@ -32,3 +32,4 @@ To run this application, the user needs to set up a React environment using tool
 https://github.com/user-attachments/assets/0164177c-feed-469a-b6db-18b4f7938f81
 
 *PHOTO*:
+![Image](https://github.com/user-attachments/assets/4551332b-646c-4e6f-8320-5e59d475367f)
